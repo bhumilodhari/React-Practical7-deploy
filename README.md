@@ -59,3 +59,6 @@ $ npnpm i react-feather
 ```sh
 $ npm install --save react-spinners
 ```
+
+### Live preivew
+#### Open https://user-list-application.netlify.app/ to view it in your browser.
